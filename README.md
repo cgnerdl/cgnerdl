@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @cgnerdl
-- 👀 I’m interested in ... I am interested in software and programming
-- 🌱 I’m currently learning ... I am currently learning the HTML programming language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... my gmail  account  caganerdal5@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Çağan Erdal | İstanbul, Türkiye.
+
+İstanbul Okan Üniversitesi'nde Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Teorik bilgiyi pratikle birleştirerek kariyerime yön veriyorum.
+
+Odak Alanlarım & Derslerim: Veri Madenciliği, Web Sitesi Tasarımı, Veri Tabanı Yönetimi (MySQL), Android Uygulama Geliştirme ve Gömülü Sistemler.
+
+Kullanılan Diller: Python, CSS, JavaScript, C#, Kotlin, MySQL.
+
+Hedef: Öğrendiğim dilleri kullanarak yenilikçi yazılım ve veri projeleri geliştirmek
 
 <!---
 cgnerdl/cgnerdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
